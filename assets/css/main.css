@@ -3022,7 +3022,7 @@ input, select, textarea {
 				-webkit-transition: opacity 1s ease;
 				-ms-transition: opacity 1s ease;
 				transition: opacity 1s ease;
-				background: rgba(49, 36, 80, 0.9);
+				background: rgba(36, 37, 80, 0.9);
 				content: '';
 				display: block;
 				height: 100%;
@@ -3236,31 +3236,31 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #1c213e;
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #426da6;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #333f82;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #a9aab9;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #939aa0;
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #555cbd;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #3f4597;
 		}
 
 		.wrapper.fullscreen {
@@ -3370,7 +3370,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #4442a6;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3524,7 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #242b50;
 		cursor: default;
 		height: 100vh;
 		left: 0;
